@@ -1,0 +1,11 @@
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\bin\Debug\BingoGame.exe.config
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\bin\Debug\BingoGame.exe
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\bin\Debug\BingoGame.pdb
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.csproj.AssemblyReference.cache
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.Form1.resources
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.Properties.Resources.resources
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.csproj.GenerateResource.cache
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.csproj.CoreCompileInputs.cache
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.exe
+C:\Users\Water\OneDrive\Desktop\C# Repos\RecipeWebsite\BingoGame\BingoGame\obj\Debug\BingoGame.pdb
